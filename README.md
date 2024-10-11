@@ -5,4 +5,4 @@ Desenvolvido no curso de HTML e CSS do Professor Guanabará do CursoemVideo. Uti
 - HTML
 - CSS
 
-link 
+link do projeto: https://viniciusferraz963.github.io/projeto-cordel/
